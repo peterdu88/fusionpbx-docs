@@ -1,24 +1,24 @@
 ************
-Users
+用户
 ************
+设定用户登录页面相关信息
 
-Define the users information to login to the web interface.
 
-*  Username
-    User id to be used to login.
-*  Password
-    Secret password used to login.
-*  Language
-    Per user language to override the domain or global language.
-*  Time Zone 	
-    Per user time zone only needed if it needs to be different from the global time zone.
-*  Status
-    Set the user's presence.
-*  Contact
-    Assign a contact to this user account. View
-*  Groups
-    The group the user is assigned.
-*  Domain
-    The domain the user is assigned to.
-*  Enable
-    Whether the user is enabled.
+*  用户名
+    用于用户登录账号.
+*  密码
+    用于用户登录.
+*  语言
+    用可以根据自己喜好设定，优先级高于domain或全局语言.
+*  时区 	
+    用户可以根据自己喜好设定，全局时区不影响用户设定.
+*  状态
+    设定用户状态.
+*  联系人
+    为用户指定联系人
+*  组
+    为用户指定用户所在的族群.
+*  域名
+   为用户指定所属域名.
+*  开启
+    这是此用户状态是否活跃.
