@@ -1,5 +1,5 @@
 ************
-Extensions
+分机号码设定
 ************
 
 | The **Extensions** define the information needed for an endpoint such as a hard phone, soft phone or some other device to connect to the SIP server. The extension is the SIP username, the password is the secret used for authentication and the domain name servers to purposes it locates the server to register to and is the realm that determines which domain the endpoint is registering to.
